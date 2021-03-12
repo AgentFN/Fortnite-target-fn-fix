@@ -2,7 +2,7 @@
 #include "stdafx.h"
 namespace Offsets {
 	typedef struct {
-		LPCWSTR Name;
+		LPCWSTR Name;//alex fr#4461
 		DWORD& Offset;
 	} OFFSET;
 	extern uintptr_t fnGetBounds;
