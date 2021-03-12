@@ -272,3 +272,4 @@ VOID Main() {
 	if (!InitD3DHook()) { Warn(skCrypt("d3dhook failed")); return; }
 	
 }
+//alex fr#4461
