@@ -1,3 +1,4 @@
+//.
 #include "FortUpdater.h"
 #include "spoof_call.h"
 //alex fr#4461
