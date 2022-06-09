@@ -187,3 +187,4 @@ namespace Offsets {
 
 	BOOLEAN Initialize();
 }
+///.
